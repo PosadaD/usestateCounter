@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/usestateCounter/static/css/main.2ea93584.css",
+    "main.js": "/usestateCounter/static/js/main.8d8de842.js",
+    "index.html": "/usestateCounter/index.html",
+    "main.2ea93584.css.map": "/usestateCounter/static/css/main.2ea93584.css.map",
+    "main.8d8de842.js.map": "/usestateCounter/static/js/main.8d8de842.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ea93584.css",
+    "static/js/main.8d8de842.js"
+  ]
+}
