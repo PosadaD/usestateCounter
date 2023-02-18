@@ -1,0 +1,27 @@
+.container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container button{
+  width: 80px;
+  height: 80px;
+  margin: 25px;
+  font-size: 3rem;
+  border-radius: 50%;
+}
+
+.container span{
+  font-size: 5rem;
+}
+
+#less{
+  background-color: red;
+  color: white;
+}
+
+#plus{
+  background-color: green;
+  color: white;
+}
